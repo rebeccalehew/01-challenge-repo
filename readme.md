@@ -10,6 +10,9 @@ The most challenging component of the project was learning how to combine simila
 
 Clients and/or potential clients will use the application to gather any necessary information about Horiseon. All images on the application will have an alt description to be more accesible for users with disabilities.
 
+![screenshot](./assets/images/Screen%20Shot%20Header.png)
+![screenshot](./assets/images/Screen%20Shot%20Main%20Content.png)
+
 ## Credits
 
 The article links listed below helped me refactor the source-code and CSS stylesheet.
